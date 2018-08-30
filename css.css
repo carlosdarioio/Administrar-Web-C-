@@ -1,0 +1,220 @@
+body{
+
+   /* background-image: url("../img/back.jpg");*/
+      background-color: #ffffff ! important;
+}
+
+
+/*Index*/
+#calend{
+    border-bottom-color: red;   
+    
+}
+.carousel, .img-circle2, .cale{
+    /*border: 8px solid #1fbbe8 !important;*/
+}
+
+.text-center p{background-color: black; color: white;}
+
+footer{
+    background-color:#999 !important;
+    
+}
+
+.navbar{background-color: #00a8e2 !important;}
+
+.footer-con { 
+
+  left:0px !important;
+   bottom:0px !important;
+   height:30p !important;
+   width:100% !important;
+   background:#999 !important;
+}
+
+footer>.footer-con>p{ margin:-100px 0px 20px 15px !important; color: aqua !important;}
+
+.navbar-right {
+   
+    margin 1000px 810px 410px 0px !important;
+}
+
+.denuncia{
+    margin-right: 4px;
+    background-color: #44c8e8;
+    color: #ffffff !important;
+    
+}
+.nav>li>img {
+/*  height: 50%;*/
+  padding: 15px;
+  width: auto;
+}
+
+/*Fin Index*/
+
+
+/**/
+   body{
+
+   /* background-image: url("../img/back.jpg");*/
+      background-color: #ffffff ! important;
+    background-image: url('../img/bck-bb.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right; 
+    background-size: 100%;
+}
+
+
+/*Index*/
+#calend{
+    border-bottom-color: red;   
+    
+}
+.carousel, .img-circle2, .cale{
+    /*border: 12px solid rgb(0, 168, 226) !important;*/
+}
+
+.text-center p{background-color: black; color: white;}
+
+
+.navbar{background-color: #00a8e2 !important;}
+
+
+
+.navbar-right {
+   
+    margin 1000px 810px 410px 0px !important;
+}
+
+.denuncia{
+    background-color: #44c8e8;
+    color: #ffffff !important;
+    
+}
+.nav>li>img {
+  height: 50%;
+  padding: 15px;
+  width: auto;
+}
+
+.img-circle2{
+    height: 100%;
+    width: 100%;
+}
+
+.p-circle2{
+    height: 100%;
+    width: 100%;
+    background-color: #333333 !important;
+}
+.p-circle3{
+    height: 100%;
+    width: 100%;
+    
+}
+/*Fin Index*/
+
+
+/*Colocando nav images*/
+@media only screen and (min-width:309px){
+/*  .imgnav {   background-color: purple; }*/
+    
+}
+
+@media only screen and (min-width:310px){
+/*  .imgnav {   background-color: greenyellow;     }*/
+ 
+      #imgnav1 {
+  height: 100px !important;
+  width: 400px !important;
+}  
+      #imgnav2 {
+  height: 200px !important;
+  width: 800px !important;
+}  
+     #myCarousel{height: 380px !important;}
+    .oom{height: 360px !important;}
+}
+
+@media only screen and (min-width:675px){
+/* .imgnav {   background-color: orange;     }*/
+   
+      #imgnav1 {
+  height: 80px !important;
+  width: 200px !important;
+}  
+    
+        #imgnav2 {
+  height: 100px !important;
+  width: 400px !important;
+}  
+    
+    #myCarousel{height: 360px !important;}
+    .oom{height: 340px !important;}
+}
+@media only screen and (min-width:920px){
+/*  .imgnav {    background-color: red;  }*/
+}  
+    #imgnav1 {
+  height: 120px !important;
+  width: 300px !important;
+}  
+    #imgnav2 {
+  height: 120px !important;
+  width: 500px !important;
+}  
+
+}
+
+ img.mmk {
+  height: 80px !important;
+  width: 80px !important;
+}   
+
+    /*Fin Colocando nav images*/
+ 
+/*Menu*/
+.menu{
+   /*/  background-color: #44c8e8;*/
+   /* color: #ffffff !important;*/
+}
+
+
+ul.menuul>li>a{text-align: center;}
+
+
+.menuli{
+background-color: rgb(224, 224, 224);
+Color:rgb(148, 148, 148) !important;    
+}
+
+
+.menuli2{  
+background-color: rgb(236, 236, 236);
+Color:rgb(148, 148, 148) !important;
+}
+.menuli,.menuli2{ width:180px;  }
+
+.menuli:hover{ background-color: rgb(36, 170, 217) !important; color: aliceblue !important;  }/*rgb(36, 170, 217)*/
+.menuli2:hover{ background-color: rgb(36, 170, 217) !important; color: aliceblue !important; }
+
+div>ul>li>a{font-size: 18px;}
+
+#txt3_{visibility: hidden !important; color:aliceblue !important; display: none !important;}
+#fcf_{visibility: hidden !important; color:aliceblue !important; display: none !important;}
+
+/*Fin Menu*/
+.footer-P{
+
+    margin: 0px 0px 0px 15% !important;
+}
+
+.navbar-center{
+    
+    display: inline-block;
+    list-style-type: none;
+    
+}
+    /**/
