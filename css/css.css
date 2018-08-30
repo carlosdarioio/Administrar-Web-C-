@@ -1,0 +1,113 @@
+body{
+
+   /* background-image: url("../img/back.jpg");*/
+      background-color: #ffffff ! important;
+    background-image: url('../img/bck-bb.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right; 
+    background-size: 100%;
+}
+
+
+/*Index*/
+#calend{
+    border-bottom-color: red;   
+    
+}
+.carousel, .img-circle2, .cale{
+    border: 12px solid rgb(0, 168, 226) !important;
+}
+
+.text-center p{background-color: black; color: white;}
+
+footer{
+    background-color:black !important;
+    
+}
+
+.navbar{background-color: #00a8e2 !important;}
+
+#footer-zone { 
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background-color: #333333 !important;
+}
+
+.footer-con p{ margin:-10px 100px 20px 15%!important; }
+
+.navbar-right {
+   
+    margin 1000px 810px 410px 0px !important;
+}
+
+.denuncia{
+    background-color: #44c8e8;
+    color: #ffffff !important;
+    
+}
+.nav>li>img {
+  height: 50%;
+  padding: 15px;
+  width: auto;
+}
+
+.img-circle2{
+    height: 100%;
+    width: 100%;
+}
+
+.p-circle2{
+    height: 100%;
+    width: 100%;
+    background-color: #333333 !important;
+}
+.p-circle3{
+    height: 100%;
+    width: 100%;
+    
+}
+/*Fin Index*/
+
+
+/*Colocando nav images*/
+@media only screen and (min-width:309px){
+/*  .imgnav {   background-color: purple; }*/
+ ul.navbar-nav>li img {
+  height: 85px !important;
+  width: 85px !important;
+}     
+}
+
+@media only screen and (min-width:310px){
+ /* .imgnav {   background-color: greenyellow;     }*/
+ ul.navbar-nav>li img {
+  height: 85px !important;
+  width: 220px !important;
+     
+}
+     #myCarousel{height: 380px !important;}
+    .oom{height: 360px !important;}
+}
+
+@media only screen and (min-width:675px){
+ /*.imgnav {   background-color: orange;     }*/
+ ul.navbar-nav>li img {
+  height: 85px !important;
+  width: 260px !important;
+}     
+    #myCarousel{height: 360px !important;}
+    .oom{height: 340px !important;}
+}
+@media only screen and (min-width:920px){
+ /* .imgnav {    background-color: red;  }*/
+ ul.navbar-nav>li img {
+  height: 85px !important;
+  width: 380px !important;
+}  
+
+}
+    /*Fin Colocando nav images*/
